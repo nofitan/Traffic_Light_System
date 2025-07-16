@@ -1,6 +1,5 @@
 # Traffic_Light_System
-The system dynamically adjusts the traffic light signals, giving priority to the lanes with heavier congestion or longer waiting times.
-#Source files
+Source files:
 - `finalproject1.ino`
 - `finalproject2.ino`
 
